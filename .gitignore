@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# MNIST data
+MNIST_data
